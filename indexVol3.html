@@ -1,0 +1,36 @@
+<html lang="jp" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XP LIFF</title>
+    <script src="https://zm86.com"></script>
+    <script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", () => {
+      liff
+        .init({
+          liffId: '<2005543553>'
+        })
+        .then(() => {
+          document.getElementById('go').addEventListener('click', () => {
+            liff.openWindow({
+              url: document.getElementById('openWindowUrl').value,
+              external: document.getElementById('openWindowExternal').checked
+            });
+          });
+        })
+        .catch((err) => {
+          document.getElementById('log').value = 'init ng\n' + err;
+        });
+    });
+    </script>
+  </head>
+  <body>
+    <div>
+      <h3>URLを開く</h3>
+      <div>url<input type="text" id="openWindowUrl" value="https://www.google.co.jp"/></div>
+      <div>external<input type="checkbox" id="openWindowExternal"/>ON：外部ブラウザで開きます。OFF：LINE内ブラウザで開きます。</div>
+      <input type="button" id="go" value="実行"/>
+      <textarea id="log" style="width:96%;height:120px;"></textarea>
+    </div>
+  </body>
+</html>
