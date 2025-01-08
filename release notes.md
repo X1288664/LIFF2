@@ -9,10 +9,11 @@
 
 * バージョン表記の隣にある(Open in Colab)をクリックするとGoogle Colabページにアクセスします。
 左にある▶をクリックしてプログラムを実行します。
-* 実行時に警告が表示されますが、このまま実行をクリックするとプログラムが実行されます。
+* 実行時に警告が表示されまる場合がありますが、(このまま実行)をクリックするとプログラムが実行されます。
 
 # バージョンと更新点
-* LINE-LM-Google-Colab-edition-ver.1.0-a  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z4FvlyKeLosgB_UtUk63ZsHNqRVv2nnG?usp=sharing)
+ソースコードは[こちら](https://github.com/X1288664/LINE_logmanager_Prototype-Cross_Pratform/tree/Source-Code)
+* LINE-LM-Google-Colab-edition-ver.1.0-a  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/Source-Code/LINE-LM%20ver.1.0.a.ipynb)
 
 
 初リリース版
