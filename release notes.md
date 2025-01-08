@@ -1,14 +1,14 @@
 # LINE-ログマネージャーリリースノート
 
-#実行方法
-
-バージョン表記の隣にある(Open in Colab)をクリックするとGoogle Colabページにアクセスします。
-左にある▶をクリックしてプログラムを実行します。
-
 # DEMO
 
 準備中
 (Colabにアクセス後、実行方法から終了まで)
+
+# How to Run(実行方法)
+
+* バージョン表記の隣にある(Open in Colab)をクリックするとGoogle Colabページにアクセスします。
+左にある▶をクリックしてプログラムを実行します。
 
 # バージョンと更新点
 [LINE-LM-Google-Colab-edition-ver.1.0-a](https://colab.research.google.com/drive/1OcsKdrO9VI8d9ZO-MMYIAy5DqVXBAYuK?usp=sharing)
