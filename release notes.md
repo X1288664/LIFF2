@@ -11,7 +11,7 @@
 左にある▶をクリックしてプログラムを実行します。
 
 # バージョンと更新点
-* LINE-LM-Google-Colab-edition-ver.1.0-a  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/main/LINE-LM%20ver.1.0.a.ipynb](https://colab.research.google.com/drive/1OcsKdrO9VI8d9ZO-MMYIAy5DqVXBAYuK?usp=sharing))
+* LINE-LM-Google-Colab-edition-ver.1.0-a  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/main/LINE-LM%20ver.1.0.a.ipynb)
 
 初リリース版
 
