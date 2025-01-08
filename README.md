@@ -18,10 +18,10 @@ Google Colab上で動作するためデバイスの制約がありません。
 インターネットに接続しているデバイス
 Googleアカウント
 
-# How to Setup
+# How to Run
 
-[Googleアカウントの作成ページ](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F%3Fptid%3D19027681%26ptt%3D8%26fpts%3D0&ec=futura_hpp_co_si_001_p&ifkv=AeZLP9-8IyIvSvK7adppDJzxCQmDUWDLztl_hHNhpQlEfdvd0OMlZNmS46th0pj6tbldYKSGlhvESw&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-821299437%3A1736301879681893&ddm=1).
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/main/LINE-LM%20ver.1.0.a.ipynb)
+1.Google Colabを使用するにはGoogleアカウントが必要です。作成していない場合は[Googleアカウントの作成ページ](https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F%3Fptid%3D19027681%26ptt%3D8%26fpts%3D0&ec=futura_hpp_co_si_001_p&ifkv=AeZLP9-8IyIvSvK7adppDJzxCQmDUWDLztl_hHNhpQlEfdvd0OMlZNmS46th0pj6tbldYKSGlhvESw&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-821299437%3A1736301879681893&ddm=1)にアクセスしてGoogleアカウントを作成してください。
+2.[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/main/LINE-LM%20ver.1.0.a.ipynb)
 
 
 # Note
