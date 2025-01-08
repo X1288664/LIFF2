@@ -7,26 +7,30 @@
 
 # DEMO
 
-readme.mdをご覧ください
+準備中
+(Colabにアクセス後、実行方法から終了まで)
 
 # バージョンと更新点
 [LINE-LM-Google-Colab-edition-ver.1.0-a](https://colab.research.google.com/drive/1OcsKdrO9VI8d9ZO-MMYIAy5DqVXBAYuK?usp=sharing)
 初リリース版
 
-# Author
+# Note(注意)
 
-作成情報を列挙する
+* アップロードされたトークログは一時的にColabのサーバーに保存されますが、プログラムを終了すると破棄されます。
+* 永久保存はされませんが、個人情報を含むログはアップロードしないことを推奨します。
 
-* 作成者
-* 所属
-* E-mail
+# Author(作成者情報)
 
-# License
+* 作成者:パヤオ84世
+* 所属:Studio Marx
+* 問い合わせは[こちらよりお願いします](https://forms.gle/VohmhtSFgMdEA77B6)
+
+# License(ライセンス)
 ライセンスを明示する
 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+* This project code was partially generated with assistance from [OpenAI's ChatGPT.](https://chatgpt.com/)
 
-社内向けなら社外秘であることを明示してる
+社内向けなら社外秘であることを明示する
 
 "LINE-LM-Google-Colab-edition" is Confidential.
 
