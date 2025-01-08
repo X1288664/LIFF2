@@ -9,6 +9,7 @@
 
 * バージョン表記の隣にある(Open in Colab)をクリックするとGoogle Colabページにアクセスします。
 左にある▶をクリックしてプログラムを実行します。
+* 実行時に警告が表示されますが、このまま実行をクリックするとプログラムが実行されます。
 
 # バージョンと更新点
 * LINE-LM-Google-Colab-edition-ver.1.0-a  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/main/LINE-LM%20ver.1.0.a.ipynb)
