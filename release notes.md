@@ -11,7 +11,7 @@
 左にある▶をクリックしてプログラムを実行します。
 
 # バージョンと更新点
-[LINE-LM-Google-Colab-edition-ver.1.0-a](https://colab.research.google.com/drive/1OcsKdrO9VI8d9ZO-MMYIAy5DqVXBAYuK?usp=sharing)
+* [LINE-LM-Google-Colab-edition-ver.1.0-a](https://colab.research.google.com/drive/1OcsKdrO9VI8d9ZO-MMYIAy5DqVXBAYuK?usp=sharing)
 初リリース版
 
 # Note(注意)
