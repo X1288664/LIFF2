@@ -26,9 +26,6 @@ Google Colab上で動作するためデバイスの制約がありません。
 2.[リリースノートページ](https://github.com/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/release-notes/release%20notes.md)にアクセスし、
 バージョンと更新点下部のバージョン表記の隣にある(Open in Colab)をクリックするとGoogle Colabページにアクセスします。
 
-3.クリックするとGoogle Colabのプロジェクトページにアクセスします。
-左にある三角アイコンをクリックするとプログラムが実行されます。
-
 # Note(注意)
 
 アップロードされたトークログは一時的にColabのサーバーに保存されますが、プログラムを終了すると破棄されます。
