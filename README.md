@@ -16,6 +16,8 @@ LINEログマネージャーのコードネームであるHERMES(ヘルメス)�
 
 ヘルメスのようにトークログという情報を司るソフトウェアを目指します。
 
+XPはクロス(X)プラットフォーム(P)の略称です。(某[OS](https://ja.wikipedia.org/wiki/Microsoft_Windows_XP)とは関係ありません)
+
 # Author(作成者情報)
 
 * 作成者:パヤオ84世,ChatGPT
