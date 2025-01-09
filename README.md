@@ -18,6 +18,8 @@ LINEのトークログを読み込み、ワードと日付で検索し結果を�
 すでにLトークという似たアプリがモバイル向けに展開されていますが、これはアプリのインストールが不要で
 Google Colab上で動作するためデバイスの制約がありません。
 
+開発秘話は[こちら](https://github.com/X1288664/LINE_logmanager_Prototype-Cross_Pratform/tree/Abouts)
+
 # Requirement(必要なもの)
 
 * インターネットに接続しているデバイス(Windows,Linux,MacOS,Android,iOS,iPadOS)
