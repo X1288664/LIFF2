@@ -13,7 +13,7 @@
 
 # バージョンと更新点
 ソースコードは[こちら](https://github.com/X1288664/LINE_logmanager_Prototype-Cross_Pratform/tree/Source-Code)
-* LINE-LM-Google-Colab-edition-ver.1.0-a  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/Source-Code/LINE-LM%20ver.1.0.a.ipynb)
+* LINE-LM-Google-Colab-edition-ver.1.0-a  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/Source-Code/HERMES-XP-ver.1.0.a.ipynb)
 
 
 初リリース版
