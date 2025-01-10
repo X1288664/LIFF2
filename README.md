@@ -2,9 +2,7 @@
 
 LINEログマネージャークロスプラットフォームプロジェクト
 
-コードネームとロゴ
-
-![image](https://github.com/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/Source-Code/Logo%26Codename.jpg)
+![image](https://github.com/X1288664/LINE_logmanager_Prototype-Cross_Pratform/blob/Source-Code/Logo-name.png)
 
 LINEのトークログを読み込み、ワードと日付で検索し結果をエクスポートできるプログラムです。
 
