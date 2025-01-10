@@ -6,8 +6,7 @@ LINEのトークログを読み込み、ワードと日付で検索し結果を�
 
 # DEMO
 
-デモ動画準備中
-(Google Colabにアクセスするまでのデモを用意)
+デモ動画[はこちら](https://youtu.be/W3Tppo4LGVc?si=ExYjRNoZbqrMkQW7)
 
 # Features
 
