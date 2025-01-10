@@ -1,4 +1,4 @@
-# LINE Log Manager Cross-Pratform(プロジェクトページ準備中)
+# LINE Log Manager Cross-Pratform
 
 LINEログマネージャークロスプラットフォームプロジェクト
 
